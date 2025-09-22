@@ -1,0 +1,7 @@
+x = 8
+x = x*2
+print ("the amount is", x)
+y = input ("what are 2 factors of 16 that are not the same number")
+if y = (2,8) or (8,2) or (16,1) or (1,16)
+print ("yes that is correct")
+else: print ("incorrect")
