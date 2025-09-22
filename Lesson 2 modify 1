@@ -1,0 +1,5 @@
+x = 24
+print(x)
+x = input ("how many dozens is this number")
+if x == ("2") ("yes correct")
+else; print ("no incorrect")
