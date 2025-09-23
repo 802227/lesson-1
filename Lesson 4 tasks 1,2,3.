@@ -1,0 +1,8 @@
+#I predict it will just show the number i provide but just divide it by 6 and show the results is
+num = input("Please input a whole number: ") 
+num = int(num) 
+num2 = num / 6
+print("When", num, " is divided by 6", end=" ")
+print("the result is:", num2)
+#my prediction was true but no, i did not expect it to not be printed on the same line of code.
+#It stopped because it already gave me the answer i needed from it. Yes the output was correct and matched what was on my calculator
