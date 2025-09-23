@@ -1,0 +1,5 @@
+#I believe the output of these commands is that everything will accordingly be written, but due to the lack of the missing space in the 2nd line, its gonna print the "12" as well, but without any space making it look  strange.
+#After running it, I was correct.
+print ("Welcome to Sanjay's Koala Birthday Party!")
+print("It's possible Sanjay can distribute ", 12)
+print(" cookies for each bowl.")
