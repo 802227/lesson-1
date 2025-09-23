@@ -1,0 +1,8 @@
+import math
+length = input("Please input a length: ")
+length = float(length)
+area = math.pow(length, 2)
+print("The area of a square of side length", length, "is:", area)
+#I would expect it to take the number i provide and then do it the power of 2
+# After running it I was correct.
+#It stopped for me to put my number and after because it gave me the answer. I put a 12, and it was correct and matched my calculator.
