@@ -1,0 +1,3 @@
+name = "Ali"
+print ("Hello" , name)
+#I  think variables are extremely useful in Python as they require less effort to get things done and could be used in many ways.
