@@ -1,0 +1,6 @@
+#I predict that the first line will make name into a variable, like in Math. I predict the second line will make an output and write everything inside the ("") after the print command on the other side.
+# this is a code comment
+name = "Leslie"
+print("Hello", name)
+#after running, my prediction is actually validated.
+# I believe I got the output I got because of what was actually inside the ("") after the print command. No, the comma did not show the output, to get the full thing to show up I would have to put all of it in the ("") after the prinnt command.
