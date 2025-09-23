@@ -1,0 +1,4 @@
+import math
+print ("Welcome to Sanjays Birthday Koala")
+print ("It's possible to distribute the cookies" , 144/6)
+print ("Cookies for each bowl")
