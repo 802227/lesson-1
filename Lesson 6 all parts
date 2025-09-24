@@ -1,0 +1,9 @@
+x = input ("please enter your birth year")
+y = input ("please ebter your age")
+
+x = int (x)
+y = int (y)
+f = 2*x+5
+s = f*50 + y
+t = f-250/100
+print ("the results from the calculation with your birth year and age is" , t)
