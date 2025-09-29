@@ -1,0 +1,13 @@
+import math
+print ("Welcome to the even and odd detector") 
+print ("This program determines if the product of two whole positive numbers will be even or odd!")
+x = input ("Please enter your first number")
+x = int(x)
+y = input ("Please enter your second number")
+y = int(y)
+f = x*y
+p = f%2
+if p == 0:
+  print ("The number", f, "is an even number")
+else:
+  print ("The number", f, "is an odd number")
