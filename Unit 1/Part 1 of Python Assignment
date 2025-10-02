@@ -1,12 +1,37 @@
+"""
+Author: Ali Asif
+Revision Date: October 2 2025
+Program: Python Assignment
+Description: Calculate if the producrt  will be even or odd
+
+
+
+
+
+
+
+
+
+
+"""
 import math
+#The reason for adding this line is to implement math commands within our code.
 print ("Welcome to the even and odd detector") 
+#Commanding it to print what I wrote in the quotes to make the function make sense
 print ("This program determines if the product of two whole positive numbers will be even or odd!")
+#Commanding it to print what I wrote in the quotes to make the full function make sense.
 x = input ("Please enter your first number")
+#Commanding it to print what I wrote so the user can input the first number of the equation
 x = int(x)
+#This line of code turns the value that was earlier stored into x from the user and makes it into an integer, not a string.
 y = input ("Please enter your second number")
+#Commanding it to print what I said so the user can input a second variable to be made into a strng
 y = int(y)
+#Turns the value that the user inputted the 2nd time into an integer over a string again
 f = x*y
+#This commands the two previously stored variables to be multiplied by each other 
 p = f%2
+#This comment is
 if p == 0:
   print ("The number", f, "is an even number")
 else:
